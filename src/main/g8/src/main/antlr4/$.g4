@@ -1,0 +1,3 @@
+grammar $name$;
+
+prog: EOF;
